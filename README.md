@@ -127,7 +127,7 @@ Here is an examples of the hot regions
 
 ## Video Implementation
 
-Here's a [link to my video result]()
+Here's a [link to my video result](https://youtu.be/dD7WmlDUlhU)
 
 
 ### Pipeline
